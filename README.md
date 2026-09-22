@@ -10,6 +10,14 @@ There will be updates soon, promise.  A lot has been done already outside of git
 
 Expect an official release soon.  Daikatana will live again as an open source project instead of closed-source gatekeeping.
 
+UPDATE!  About 3 more months and we will have the first official Daikatana Restoration Project uploaded and released!  It has been a LONG time coming (sorry, work, life etc..).  But it is nearly done.  With an all new GL Renderer, 64bit compatibility and as much 1.2 merging as I can do (plus some backports from reverse engineering).  No.. More.. Gatekeeping!
+
+Screenshots:
+
+<img width="647" height="518" alt="daikatana1" src="https://github.com/user-attachments/assets/7630ac71-77b0-4092-885c-a51a951bdeb6" />
+
+<img width="643" height="516" alt="daikatana2" src="https://github.com/user-attachments/assets/d40d817f-6b19-4061-9a7f-e16257b7a855" />
+
 # Why?
 
 Because the only other project is the Daikatana 1.3 Project, who refuse to release their changes.  I don't care much for formalities, if anyone cared about the source, Eidos would have sued Romero back when he dropped it.  They didn't.
