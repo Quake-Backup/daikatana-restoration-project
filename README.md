@@ -12,7 +12,9 @@ Expect an official release soon.  Daikatana will live again as an open source pr
 
 UPDATE!  About 3 more months and we will have the first official Daikatana Restoration Project uploaded and released!  It has been a LONG time coming (sorry, work, life etc..).  But it is nearly done.  With an all new GL Renderer, 64bit compatibility and as much 1.2 merging as I can do (plus some backports from reverse engineering).  No.. More.. Gatekeeping!
 
-Screenshots:
+Screenshots and Videos:
+
+https://youtu.be/DetGrzLRNR8
 
 <img width="647" height="518" alt="daikatana1" src="https://github.com/user-attachments/assets/7630ac71-77b0-4092-885c-a51a951bdeb6" />
 
